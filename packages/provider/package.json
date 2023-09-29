@@ -16,7 +16,7 @@
         "fluent-ffmpeg": "^2.1.2",
         "qr-image": "^3.2.0",
         "rimraf": "^3.0.2",
-        "sharp": "^0.30.5"
+        "sharp": "^0.32.6"
     },
     "exports": {
         "./mock": "./lib/mock/index.cjs",
