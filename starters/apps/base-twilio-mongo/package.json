@@ -17,7 +17,7 @@
         "@bot-whatsapp/database": "latest",
         "@bot-whatsapp/provider": "latest",
         "mime-types": "^2.1.35",
-        "mongodb": "^4.12.1"
+        "mongodb": "^6.0.0"
     },
     "author": "",
     "license": "ISC"
