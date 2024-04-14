@@ -15,7 +15,7 @@
         "@bot-whatsapp/database": "latest",
         "@bot-whatsapp/provider": "latest",
         "@bot-whatsapp/portal": "latest",
-        "mysql2": "^2.3.3",
+        "mysql2": "^3.9.4",
         "mime-types": "2.1.35"
     },
     "author": "",
