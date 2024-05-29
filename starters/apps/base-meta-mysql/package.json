@@ -16,7 +16,7 @@
         "@bot-whatsapp/database": "latest",
         "@bot-whatsapp/provider": "latest",
         "axios": "^1.2.1",
-        "mysql2": "^2.3.3"
+        "mysql2": "^3.9.8"
     },
     "author": "",
     "license": "ISC"
